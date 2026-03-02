@@ -12,6 +12,12 @@ func main() {
 	fmt.Scan(&name)
 	fmt.Print("Enter Your age: ")
 	fmt.Scan(&age)
-	fmt.Print("Enter Job descrription: ")
+	fmt.Print("Enter Career : ")
 	fmt.Scan(&job)
+
+	fmt.Println(name)
+	fmt.Println(age)
+	fmt.Println(job)
+	
+
 }
