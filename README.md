@@ -26,4 +26,10 @@ func main() {
 	fmt.Scan(&job)
     }
 ```
-## Use Bufio,os plus fmt
+## Use Bufio,os,fmt,stringss,strconv
+
+- I have used buffio inorder to handle space in between ie "Flovian Atieno"
+- os helps with system interaction
+- fmt - for printing input
+- strings - to trim trailing spaces
+- strconv - Convert age
