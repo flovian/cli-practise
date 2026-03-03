@@ -32,4 +32,6 @@ func main() {
 - os helps with system interaction
 - fmt - for printing input
 - strings - to trim trailing spaces
-- strconv - Convert age
+- strconv - Convert age to an int since CLI args are strings
+
+---
